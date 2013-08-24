@@ -1,9 +1,3 @@
-Skin-1
-======
-
-minha 1 skin
-
-
 #player,#player a{ color:#000000; font-size: 11px; font-family: verdana; text-transform:normal; } 
 #player{ background:url(http://static.tumblr.com/su8juwr/I64mkjm26/branco.png); background-position:bottom; background-color: #FFFFFF;}
 #player .mainImage{ background:url(https://lh5.ggpht.com/-yKT8hEwUy0E/UhjMBJxU_iI/AAAAAAAAA7M/1Vy4bcNdrhE/w392-h25-no/horasiguaisbranco.png); }
